@@ -19,4 +19,4 @@ Zboard Merc is a keyboard which no longer receive driver-updates to work with ne
 1. Enjoy a working zMerc again!
 
 # Alternatives
-Someone else at Reddit decided to provide his own [signed drivers here](https://1drv.ms/u/s!ArmFcPzlv8puyUJnTW16KSPhktd9), removing the need to Disable the Signed Driver Enforcement. I have not verified, but you can read [the post here](https://www.reddit.com/r/Windows10/comments/6nmb1r/help_on_zboard_keyboard_driver_incompatibility/).
+Someone else at Reddit decided to provide his own [signed drivers here](https://1drv.ms/u/s!ArmFcPzlv8puyUJnTW16KSPhktd9), you can read [the post here](https://www.reddit.com/r/Windows10/comments/6nmb1r/help_on_zboard_keyboard_driver_incompatibility/). It claimed to remove the requirement to Disable signed driver enforcement, but at least from the latest Windows update that is no longer true and it is stil a requirement.
